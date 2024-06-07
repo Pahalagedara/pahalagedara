@@ -20,21 +20,21 @@ const dataabout = {
     aboutme: "Hello! I graduated from the University of Kelaniya with a BSc (Hons) in Software Engineering, earning Second Class honors. My journey in technology began with a strong foundation in physical sciences at Ibbagamuwa Central College, where I excelled in my A/Ls, earning two A credits in Combined Maths and Physics, and a C credit in Chemistry. \n\n With a solid academic background and a passion for creating dynamic and efficient web applications, I specialize in both front-end and back-end development. My goal is to develop innovative solutions that provide excellent user experiences and robust performance. Explore my portfolio to see my latest projects and feel free to reach out if you'd like to collaborate.",
 };
 const worktimeline = [
-    // {
-    //     jobtitle: "Designer of week",
-    //     where: "YAdfi",
-    //     date: "2020",
-    // },
-    // {
-    //     jobtitle: "Designer of week",
-    //     where: "Jamalya",
-    //     date: "2019",
-    // },
-    // {
-    //     jobtitle: "Designer of week",
-    //     where: "ALquds",
-    //     date: "2019",
-    // },
+    {
+        jobtitle: "Game Developer",
+        where: "G-Dev",
+        date: "2022",
+    },
+    {
+        jobtitle: "Associate Software Engineer",
+        where: "Ceyentra Technologies",
+        date: "2022",
+    },
+    {
+        jobtitle: "Intern Software Engineer",
+        where: "Ceyentra Technologies",
+        date: "2021",
+    },
 ];
 
 const skills = [
