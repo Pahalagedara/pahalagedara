@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pahalagedara/static/css/main.c8f8cea7.css",
-    "main.js": "/pahalagedara/static/js/main.6959d2c8.js",
+    "main.js": "/pahalagedara/static/js/main.ce983010.js",
     "static/media/kumarika_web.png": "/pahalagedara/static/media/kumarika_web.9230f69caa8f4c7010a8.png",
     "static/media/richdad_simulator.png": "/pahalagedara/static/media/richdad_simulator.b9b7075996de51c60a7d.png",
     "static/media/Thilina Pahalagedara.pdf": "/pahalagedara/static/media/Thilina Pahalagedara.947a41f0444e9ddeffda.pdf",
@@ -11,10 +11,10 @@
     "static/media/medec_mobile.png": "/pahalagedara/static/media/medec_mobile.edfbb860e84fce90da9d.png",
     "index.html": "/pahalagedara/index.html",
     "main.c8f8cea7.css.map": "/pahalagedara/static/css/main.c8f8cea7.css.map",
-    "main.6959d2c8.js.map": "/pahalagedara/static/js/main.6959d2c8.js.map"
+    "main.ce983010.js.map": "/pahalagedara/static/js/main.ce983010.js.map"
   },
   "entrypoints": [
     "static/css/main.c8f8cea7.css",
-    "static/js/main.6959d2c8.js"
+    "static/js/main.ce983010.js"
   ]
 }
