@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/pahalagedara/static/css/main.27987ffc.css",
-    "main.js": "/pahalagedara/static/js/main.5d456680.js",
+    "main.js": "/pahalagedara/static/js/main.eb1df2cf.js",
+    "static/media/dp.png": "/pahalagedara/static/media/dp.d1fd71f0a1de3d39853e.png",
     "static/media/kumarika_web.png": "/pahalagedara/static/media/kumarika_web.201f89daea9be4d5c12c.png",
-    "static/media/richdad_simulator.png": "/pahalagedara/static/media/richdad_simulator.b9b7075996de51c60a7d.png",
+    "static/media/richdad_simulator.png": "/pahalagedara/static/media/richdad_simulator.a18e3100e8cd48c25196.png",
     "static/media/Thilina Pahalagedara.pdf": "/pahalagedara/static/media/Thilina Pahalagedara.947a41f0444e9ddeffda.pdf",
-    "static/media/meta_ceyentra.png": "/pahalagedara/static/media/meta_ceyentra.cd3fe1d9ab93b1b2439a.png",
-    "static/media/medec_web.png": "/pahalagedara/static/media/medec_web.7a5c3cf650775a242281.png",
-    "static/media/medec_api.png": "/pahalagedara/static/media/medec_api.52f6f34db5110082348f.png",
-    "static/media/medec_mobile.png": "/pahalagedara/static/media/medec_mobile.edfbb860e84fce90da9d.png",
+    "static/media/meta_ceyentra.png": "/pahalagedara/static/media/meta_ceyentra.e03952d491f5e77b0753.png",
+    "static/media/medec_web.png": "/pahalagedara/static/media/medec_web.11fddcadf4e8445688a9.png",
+    "static/media/medec_api.png": "/pahalagedara/static/media/medec_api.2a65957203fcb5ed60d5.png",
+    "static/media/medec_mobile.png": "/pahalagedara/static/media/medec_mobile.65b4dbe2b7907b086e35.png",
     "index.html": "/pahalagedara/index.html",
     "main.27987ffc.css.map": "/pahalagedara/static/css/main.27987ffc.css.map",
-    "main.5d456680.js.map": "/pahalagedara/static/js/main.5d456680.js.map"
+    "main.eb1df2cf.js.map": "/pahalagedara/static/js/main.eb1df2cf.js.map"
   },
   "entrypoints": [
     "static/css/main.27987ffc.css",
-    "static/js/main.5d456680.js"
+    "static/js/main.eb1df2cf.js"
   ]
 }
