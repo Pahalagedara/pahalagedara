@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop mobile apps",
     },
     description: "Welcome! I'm passionate Full Stack Developer with a knack for building seamless web experiences. From intuitive user interfaces to robust server-side logic, I handle it all with a blend of creativity and technical expertise. Take a look at my work and feel free to reach out if you'd like to discuss a project.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: require("../src/assets/images/home/dp.png"),
 };
 
 const dataabout = {
@@ -59,7 +59,7 @@ const skills = [
         value: 60,
     },
     {
-        name: "Unreal Game Engine",
+        name: "Unreal Engine",
         value: 60,
     },
 
