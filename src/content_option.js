@@ -21,6 +21,11 @@ const dataabout = {
 };
 const worktimeline = [
     {
+        jobtitle: "Software Engineer",
+        where: "Nova Solutions",
+        date: "2024",
+    },
+    {
         jobtitle: "Game Developer",
         where: "G-Dev",
         date: "2022",
@@ -43,6 +48,10 @@ const skills = [
         value: 80,
     },
     {
+        name: "Typescript",
+        value: 70,
+    },
+    {
         name: "React",
         value: 80,
     },
@@ -52,11 +61,27 @@ const skills = [
     },
     {
         name: "Java",
-        value: 75,
+        value: 50,
     },
     {
         name: "Spring boot",
+        value: 50,
+    },
+    {
+        name: "MongoDB",
         value: 60,
+    },
+    {
+        name: "MySQL",
+        value: 50,
+    },
+    {
+        name: "Redis",
+        value: 50,
+    },
+    {
+        name: "Docker",
+        value: 40,
     },
     {
         name: "Unreal Engine",
@@ -79,7 +104,13 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
+const dataportfolio = [
+    {
+        img: require("../src/assets/images/projects/tagsmate_web.png"),
+        description: "Tagsmate is a task management SaaS project that helps manage subcontractors, employees, and clients with their own tasks.",
+        link: "#",
+    },
+    {
         img: require("../src/assets/images/projects/medec_web.png"),
         description: "Online medical appointment booking landscape. By combining the strengths of existing platforms with innovative features, MEDEC aims to revolutionize the way users access healthcare services in the post-pandemic world",
         link: "https://github.com/UOKSEDevProject/medec-web.git",
