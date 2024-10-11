@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/pahalagedara/static/css/main.27987ffc.css",
-    "main.js": "/pahalagedara/static/js/main.a23092f7.js",
+    "main.js": "/pahalagedara/static/js/main.de130e23.js",
     "static/media/dp.png": "/pahalagedara/static/media/dp.d1fd71f0a1de3d39853e.png",
-    "static/media/kumarika_web.png": "/pahalagedara/static/media/kumarika_web.201f89daea9be4d5c12c.png",
-    "static/media/richdad_simulator.png": "/pahalagedara/static/media/richdad_simulator.a18e3100e8cd48c25196.png",
-    "static/media/Thilina Pahalagedara.pdf": "/pahalagedara/static/media/Thilina Pahalagedara.947a41f0444e9ddeffda.pdf",
-    "static/media/meta_ceyentra.png": "/pahalagedara/static/media/meta_ceyentra.e03952d491f5e77b0753.png",
-    "static/media/medec_web.png": "/pahalagedara/static/media/medec_web.11fddcadf4e8445688a9.png",
-    "static/media/medec_api.png": "/pahalagedara/static/media/medec_api.2a65957203fcb5ed60d5.png",
-    "static/media/medec_mobile.png": "/pahalagedara/static/media/medec_mobile.65b4dbe2b7907b086e35.png",
+    "static/media/kumarika_web.png": "/pahalagedara/static/media/kumarika_web.38d60495ec47c97bf22d.png",
+    "static/media/richdad_simulator.png": "/pahalagedara/static/media/richdad_simulator.d17dbe6769e26b7fdce9.png",
+    "static/media/meta_ceyentra.png": "/pahalagedara/static/media/meta_ceyentra.ca8804b6ec9b485286e3.png",
+    "static/media/Thilina Pahalagedara.pdf": "/pahalagedara/static/media/Thilina Pahalagedara.bed311ababc6178c6750.pdf",
+    "static/media/medec_web.png": "/pahalagedara/static/media/medec_web.75b9fb3cfc85255ac965.png",
+    "static/media/medec_api.png": "/pahalagedara/static/media/medec_api.32b17e90dd534e522af6.png",
+    "static/media/medec_mobile.png": "/pahalagedara/static/media/medec_mobile.e2ceaca1140dd7832758.png",
+    "static/media/tagsmate_web.png": "/pahalagedara/static/media/tagsmate_web.a0ba1fd20807d8cf9b25.png",
     "index.html": "/pahalagedara/index.html",
     "main.27987ffc.css.map": "/pahalagedara/static/css/main.27987ffc.css.map",
-    "main.a23092f7.js.map": "/pahalagedara/static/js/main.a23092f7.js.map"
+    "main.de130e23.js.map": "/pahalagedara/static/js/main.de130e23.js.map"
   },
   "entrypoints": [
     "static/css/main.27987ffc.css",
-    "static/js/main.a23092f7.js"
+    "static/js/main.de130e23.js"
   ]
 }
