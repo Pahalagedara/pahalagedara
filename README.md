@@ -12,14 +12,20 @@ Currently leading projects with **microservices** and **SaaS** architectures.
 
 ---
 
-<!-- GitHub stats card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pahalagedara&show_icons=true&theme=tokyonight)
+<!-- GitHub Stats and Top Languages side by side -->
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=pahalagedara&show_icons=true&theme=tokyonight" width="380"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahalagedara&layout=compact&theme=tokyonight" width="380"/></td>
+    </tr>
+  </table>
+</p>
 
-<!-- Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pahalagedara&layout=compact&theme=tokyonight)
 
 <!-- GitHub streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pahalagedara&theme=tokyonight)
+![GitHub Followers](https://img.shields.io/github/followers/pahalagedara?label=Followers&style=for-the-badge)
+![Repo Stars](https://img.shields.io/github/stars/pahalagedara/your-repo?style=for-the-badge)
 
 
 ---
