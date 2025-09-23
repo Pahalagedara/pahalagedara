@@ -22,7 +22,7 @@ Currently leading projects with **microservices** and **SaaS** architectures.
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahalagedara&layout=compact&theme=tokyonight" width="380" />
 </p>
 
-
+---
 
 <!-- GitHub streak stats -->
 ![GitHub Followers](https://img.shields.io/github/followers/pahalagedara?label=Followers&style=for-the-badge)
