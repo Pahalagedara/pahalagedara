@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header](https://github.com/Pahalagedara/pahalagedara/blob/dev/src/assets/images/github-header-banner.png)
+![Header](https://github.com/Pahalagedara/pahalagedara/blob/dev/src/assets/images/github-header-banner.jpg)
 
 # Hi there, I'm Thilina Pahalagedara 👋
 
