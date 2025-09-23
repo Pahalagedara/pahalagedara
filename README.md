@@ -16,7 +16,7 @@ Currently leading projects with **microservices** and **SaaS** architectures.
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=pahalagedara&show_icons=true&theme=tokyonight" width="380"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=pahalagedara&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="380"/></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahalagedara&layout=compact&theme=tokyonight" width="380"/></td>
     </tr>
   </table>
