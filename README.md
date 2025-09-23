@@ -1,12 +1,20 @@
-<!-- Replace the header image link with your own banner or keep it simple -->
+<!-- Header Banner -->
 ![Header](https://github.com/Pahalagedara/pahalagedara/blob/dev/src/assets/images/github-header-banner.png)
 
-# Hi there, I'm Thilina 👋
+# Hi there, I'm Thilina Pahalagedara 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Analytical+Problem+Solver;Data-Driven+Decision+Maker;Full-Stack+Engineer" />
 
 Full-stack Software Engineer • Sri Lanka 🇱🇰  
 
 I love exploring different disciplines and building scalable web apps.  
 Currently leading projects with **microservices** and **SaaS** architectures.
+
+---
+
+![Thilina's GitHub stats](https://readme-stats.vercel.app/api?username=Pahalagedara&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats.vercel.app/api/top-langs/?username=Pahalagedara&layout=compact&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pahalagedara&theme=tokyonight)
 
 ---
 
@@ -32,19 +40,27 @@ Currently leading projects with **microservices** and **SaaS** architectures.
 
 ---
 
+## 🧠 Analytical Mindset
+- Built **data-driven SaaS subscription logic** with complex pricing analysis
+- Designed **scalable microservices** after evaluating performance metrics
+- Conducted **ANPR model evaluation** comparing SDK vs YOLOv3 with cost/timeline insights
+- Passionate about optimizing systems using metrics and logical reasoning
+
+---
+
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Nova** | Messaging platform for shop owners & clients | React, NestJS, WebSockets |
 | **Field Management SaaS** | Subscription-based field ops system | Next.js, NestJS, MySQL, MongoDB |
-| **ANPR & Object Detection** | Vehicle number-plate recognition | YOLOv3 |
+<!-- | **ANPR & Object Detection** | Vehicle number-plate recognition | YOLOv3 | -->
 
 ---
 
 ## 🌱 What I'm Exploring
-- Deeper microservices patterns
-- Advanced DevOps with Docker & AWS
-- Cutting-edge React features
+- Deeper **microservices patterns** and scalable architecture
+- Advanced **DevOps** with Docker & AWS
+- Cutting-edge **React features** and front-end performance optimization
 
 ---
 
