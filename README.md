@@ -12,9 +12,15 @@ Currently leading projects with **microservices** and **SaaS** architectures.
 
 ---
 
-![Thilina's GitHub stats](https://readme-stats.vercel.app/api?username=Pahalagedara&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats.vercel.app/api/top-langs/?username=Pahalagedara&layout=compact&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pahalagedara&theme=tokyonight)
+<!-- GitHub stats card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pahalagedara&show_icons=true&theme=tokyonight)
+
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pahalagedara&layout=compact&theme=tokyonight)
+
+<!-- GitHub streak stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pahalagedara&theme=tokyonight)
+
 
 ---
 
