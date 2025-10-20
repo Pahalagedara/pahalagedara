@@ -43,11 +43,10 @@ Currently leading projects with **microservices** and **SaaS** architectures.
 - MySQL & MongoDB (Sequelize ORM)
 - Redis
 - Docker, Firebase
-- AWS (EC2, S3, etc.)
+- AWS (EC2, S3,)
 
 **Specialties**
 - SaaS subscription platforms with add-on features
-- Real-time messaging (WebSockets)
 - PDF generation with @react-pdf/renderer
 - Push notifications with Firebase
 
